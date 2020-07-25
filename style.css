@@ -1,0 +1,41 @@
+body{
+    text-align: center !important;
+    align-items: center !important;
+
+}
+#main{
+    border: 2px solid black;
+    width: 330px !important;
+    margin: auto !important;
+    padding-bottom: 20px !important;
+    margin-bottom: 20px !important;
+    
+    
+    
+
+}
+#btn{
+ background-color: royalblue !important;
+    color: white !important;   
+}
+#list{
+    border: 2px solid red;
+    width: 300px !important;
+    margin: auto !important;
+    margin-top: 20px !important;
+    padding: 20px !important;
+    padding-left: 35px !important;
+}
+
+.del ,.edit{
+    background-color: royalblue !important;
+    color: white !important;
+}
+.del{
+    margin-left: 5px !important;
+    margin-right: 2px;
+}
+
+.input{
+    margin-bottom: 5px ;
+}
